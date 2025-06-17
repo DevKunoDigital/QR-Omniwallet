@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "28606000000047002",
+      "name": "Covermanager",
+      "domain": {
+        "id": "10099186851",
+        "name": "covermanager-883996440.development"
+      },
+      "timezone": "America/Bogota",
+      "env": [
+        {
+          "idx": 1,
+          "id": "883996440",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

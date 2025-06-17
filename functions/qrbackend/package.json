@@ -1,0 +1,11 @@
+{
+	"name": "qrbackend",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "dev@kunodigital.com",
+	"dependencies": {
+		"node-fetch": "^2.7.0",
+		"qrcode": "^1.5.4",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
